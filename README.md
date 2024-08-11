@@ -39,7 +39,7 @@ Handles loading and preprocessing of CAPTCHA images, including grayscale convers
 * Seaborn
 
 ## Results showcase
-<img src="https://github.com/21zasker/Captcha-Solver/blob/main/Screenshot/Captcha_Solver_Showcase.jpg" width="65%" alt="Showcase">
+<img src="https://github.com/21zasker/Captcha-Solver/blob/main/Screenshot/Captcha_Solver_Showcase.jpg" width="75%" alt="Showcase">
 
 ## Note
 The effectiveness of image processing may vary depending on the quality and characteristics of the CAPTCHA images. Factors such as noise, distortion, and image cleanliness can impact the results. Adjustments to preprocessing steps might be necessary based on the specific dataset and image conditions.
